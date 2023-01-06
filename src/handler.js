@@ -1,4 +1,3 @@
-const { request } = require("express");
 const { nanoid } = require("nanoid");
 const books = require("./books");
 
